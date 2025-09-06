@@ -1,3 +1,3 @@
-# Commited V2
+# Committed V3
 
-In attempt to beat **virejdasani**'s record of 3,000,000 commits, I have created this repository, CommitedV2, I in no way am trying to be competitive with virejdasani, just a silly little project :), check out virejdasani's repo [here](https://github.com/virejdasani/Commited)
+I tried going for 4,000,000 commits with [Committed V2](https://github.com/playfairs/CommitedV2), but apparently, running the script long enough to get even 1 million takes around 8-12 hours, so uh.. nevermind
